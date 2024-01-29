@@ -1,2 +1,4 @@
 appliances+energy+prediction/
 .venv/
+plots/
+__pycache__
